@@ -1,2 +1,0 @@
-# hacknights
-# app
